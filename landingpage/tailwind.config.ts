@@ -11,6 +11,7 @@ const config: Config = {
       backgroundImage:{
       'custom-bg': "url('https://romsimply.weebly.com/uploads/1/2/6/7/126748910/720431603_orig.png')"
     }
+    
     },
   },
   plugins: [],
